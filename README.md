@@ -54,4 +54,3 @@
 - Symmetric matrix
 - Swap the columns
 - Rotate a rectange array
-- Testando
