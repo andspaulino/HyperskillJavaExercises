@@ -44,3 +44,12 @@
 - Shape
 - Direction
 - A simple calculator
+- Initializing an array of integers
+- Initializing an array of longs
+- Count how many times a number occurs
+- The minimum value of an array
+- The maximum product of adjacent elements
+- The star figure
+- Symmetric matrix
+- Swap the columns
+- Rotate a rectange array
